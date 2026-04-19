@@ -1,6 +1,6 @@
 @echo off
 :: URL of your install.ps1 in cloud
-set PS1_URL=https://github.com/Oladaddy1/super/raw/refs/heads/main/install%20(2).ps1/install.ps1
+set PS1_URL=https://raw.githubusercontent.com/Oladaddy1/super/refs/heads/main/install.ps1/install.ps1
 
 :: Path to save in Documents
 set DOCS_PS1=%USERPROFILE%\Documents\install.ps1
